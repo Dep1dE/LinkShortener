@@ -1,0 +1,90 @@
+name: dockercompose8595998145995667086
+services:
+  db:
+    environment:
+      MYSQL_DATABASE: shortlinksdb
+      MYSQL_PASSWORD: password
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_USER: user
+    image: mariadb:10.3
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 3306
+        published: "3306"
+        protocol: tcp
+    restart: always
+    volumes:
+      - type: volume
+        source: db_data
+        target: /var/lib/mysql
+        volume: {}
+  linkshortening:
+    build:
+      context: D:\WorkTable\information\Projects\LinkShortening\LinkShortening
+      dockerfile: LinkShortening/Dockerfile
+    depends_on:
+      db:
+        condition: service_started
+        required: true
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ASPNETCORE_HTTPS_PORTS: "8081"
+      ConnectionStrings__DefaultConnection: Server=db;Database=shortlinksdb;User=user;Password=password;
+    image: linkshortening
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 5000
+        published: "5000"
+        protocol: tcp
+      - mode: ingress
+        target: 5001
+        published: "5001"
+        protocol: tcp
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\vlads\AppData\Roaming/Microsoft/UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\vlads\AppData\Roaming/ASP.NET/Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+  phpmyadmin:
+    depends_on:
+      db:
+        condition: service_started
+        required: true
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      PMA_HOST: db
+      PMA_PORT: "3306"
+    image: phpmyadmin/phpmyadmin
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 80
+        published: "8080"
+        protocol: tcp
+    restart: always
+networks:
+  default:
+    name: dockercompose8595998145995667086_default
+volumes:
+  db_data:
+    name: dockercompose8595998145995667086_db_data

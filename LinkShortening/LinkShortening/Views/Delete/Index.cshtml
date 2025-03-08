@@ -1,0 +1,15 @@
+﻿@model URL
+
+@{
+    ViewData["Title"] = "Удаление ссылки";
+}
+
+<h2>Вы уверены, что хотите удалить эту ссылку?</h2>
+
+<p><strong>Длинный URL:</strong> @Model.LongUrl</p>
+<p><strong>Короткий URL:</strong> @Model.ShortUrl</p>
+
+<form method="post" action="@Url.Action("Confirm", "Delete", new { id = Model.Id })">
+    <button type="submit" class="btn btn-danger">Удалить</button>
+    <a class="btn btn-secondary" href="@Url.Action("Index", "Url")">Отмена</a>
+</form>

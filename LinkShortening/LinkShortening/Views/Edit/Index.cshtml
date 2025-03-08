@@ -1,0 +1,20 @@
+﻿@model URL
+
+@{
+    ViewData["Title"] = "Редактирование ссылки";
+}
+
+<h2>Редактирование ссылки</h2>
+
+<form method="post" action="@Url.Action("Index", "Edit", new { id = Model.Id })">
+    <input type="hidden" name="Id" value="@Model.Id" />
+
+    <div class="mb-3">
+        <label class="form-label">Длинный URL:</label>
+        <input type="text" name="LongUrl" class="form-control" value="@Model.LongUrl" required />
+        <span class="text-danger">@Html.ValidationMessageFor(m => m.LongUrl)</span>
+    </div>
+
+    <button type="submit" class="btn btn-success">Сохранить</button>
+    <a class="btn btn-secondary" href="@Url.Action("Index", "Url")">Назад</a>
+</form>

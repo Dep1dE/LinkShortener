@@ -1,0 +1,35 @@
+services:
+  db:
+    image: mariadb:10.3
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: shortlinksdb
+      MYSQL_USER: user
+      MYSQL_PASSWORD: password
+    ports:
+      - "3306:3306"
+    volumes:
+      - db_data:/var/lib/mysql
+
+  linkshortening:
+    image: ${DOCKER_REGISTRY-}linkshortening
+    build:
+      context: .
+      dockerfile: LinkShortening/Dockerfile
+    depends_on:
+      - db
+    environment:
+      - ConnectionStrings__DefaultConnection=Server=db;Database=shortlinksdb;User=user;Password=password;
+    ports:
+      - "5000:5000"
+      - "5001:5001"
+
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - 8080:8080
+
+volumes:
+  db_data:

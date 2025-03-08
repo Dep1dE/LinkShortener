@@ -1,0 +1,14 @@
+﻿@model URL
+
+<h2>Создание новой ссылки</h2>
+
+<form method="post" action="@Url.Action("CreateShortLink", "Create")">
+    <div class="mb-3">
+        <label class="form-label">Введите длинный URL:</label>
+        <input type="text" name="LongUrl" class="form-control" required />
+        <span class="text-danger">@Html.ValidationMessageFor(m => m.LongUrl)</span>
+    </div>
+
+    <button type="submit" class="btn btn-success">Сократить</button>
+    <a class="btn btn-secondary" href="@Url.Action("Index", "Url")">Назад</a>
+</form>

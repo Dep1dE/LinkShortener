@@ -1,0 +1,36 @@
+﻿@using System.Globalization
+@model List<URL>
+
+@{
+    ViewData["Title"] = "Список ссылок";
+}
+
+<h2>Список сокращённых ссылок</h2>
+<a class="btn btn-primary mb-3" href="@Url.Action("Index", "Create")">Добавить новую ссылку</a>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Длинный URL</th>
+            <th>Сокращенный URL</th>
+            <th>Дата создания</th>
+            <th>Количество переходов</th>
+            <th>Действия</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var link in Model)
+        {
+            <tr>
+                <td>@link.LongUrl</td>
+                <td><a href="@Url.Action("RedirectToOriginal", "Url", new { shortUrl = link.ShortUrl })">@link.ShortUrl</a></td>
+                <td>@link.CreatedAt.ToLocalTime().ToString("dd.MM.yyyy HH:mm:ss")</td>
+                <td>@link.TransitionCount</td>
+                <td>
+                    <a class="btn btn-warning btn-sm" href="@Url.Action("Index", "Edit", new { id = link.Id })">✏️</a>
+                    <a class="btn btn-danger btn-sm" href="@Url.Action("Index", "Delete", new { id = link.Id })">🗑️</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
