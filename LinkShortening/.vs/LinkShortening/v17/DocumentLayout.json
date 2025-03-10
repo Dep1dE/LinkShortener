@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0F236CDA-234B-41B2-88B0-C70B545E17D1}|LinkShortening\\LinkShortening.csproj|d:\\worktable\\information\\projects\\linkshortening\\linkshortening\\linkshortening\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F236CDA-234B-41B2-88B0-C70B545E17D1}|LinkShortening\\LinkShortening.csproj|solutionrelative:linkshortening\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F236CDA-234B-41B2-88B0-C70B545E17D1}|LinkShortening\\LinkShortening.csproj|d:\\worktable\\information\\projects\\linkshortening\\linkshortening\\linkshortening\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F236CDA-234B-41B2-88B0-C70B545E17D1}|LinkShortening\\LinkShortening.csproj|solutionrelative:linkshortening\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F236CDA-234B-41B2-88B0-C70B545E17D1}|LinkShortening\\LinkShortening.csproj|d:\\worktable\\information\\projects\\linkshortening\\linkshortening\\linkshortening\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F236CDA-234B-41B2-88B0-C70B545E17D1}|LinkShortening\\LinkShortening.csproj|solutionrelative:linkshortening\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5A58D6-3C10-491F-9B9E-DA32E9A79967}|docker-compose.dcproj|d:\\worktable\\information\\projects\\linkshortening\\linkshortening\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9B5A58D6-3C10-491F-9B9E-DA32E9A79967}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0F236CDA-234B-41B2-88B0-C70B545E17D1}|LinkShortening\\LinkShortening.csproj|d:\\worktable\\information\\projects\\linkshortening\\linkshortening\\linkshortening\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{0F236CDA-234B-41B2-88B0-C70B545E17D1}|LinkShortening\\LinkShortening.csproj|solutionrelative:linkshortening\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -47,20 +63,8 @@
       "RelativeMoniker": "D:0:0:{0F236CDA-234B-41B2-88B0-C70B545E17D1}|LinkShortening\\LinkShortening.csproj|solutionrelative:linkshortening\\controllers\\createcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B5A58D6-3C10-491F-9B9E-DA32E9A79967}|docker-compose.dcproj|d:\\worktable\\information\\projects\\linkshortening\\linkshortening\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{9B5A58D6-3C10-491F-9B9E-DA32E9A79967}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F236CDA-234B-41B2-88B0-C70B545E17D1}|LinkShortening\\LinkShortening.csproj|d:\\worktable\\information\\projects\\linkshortening\\linkshortening\\linkshortening\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0F236CDA-234B-41B2-88B0-C70B545E17D1}|LinkShortening\\LinkShortening.csproj|solutionrelative:linkshortening\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0F236CDA-234B-41B2-88B0-C70B545E17D1}|LinkShortening\\LinkShortening.csproj|d:\\worktable\\information\\projects\\linkshortening\\linkshortening\\linkshortening\\views\\url\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0F236CDA-234B-41B2-88B0-C70B545E17D1}|LinkShortening\\LinkShortening.csproj|solutionrelative:linkshortening\\views\\url\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F236CDA-234B-41B2-88B0-C70B545E17D1}|LinkShortening\\LinkShortening.csproj|d:\\worktable\\information\\projects\\linkshortening\\linkshortening\\linkshortening\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0F236CDA-234B-41B2-88B0-C70B545E17D1}|LinkShortening\\LinkShortening.csproj|solutionrelative:linkshortening\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F236CDA-234B-41B2-88B0-C70B545E17D1}|LinkShortening\\LinkShortening.csproj|d:\\worktable\\information\\projects\\linkshortening\\linkshortening\\linkshortening\\views\\edit\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -69,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0F236CDA-234B-41B2-88B0-C70B545E17D1}|LinkShortening\\LinkShortening.csproj|d:\\worktable\\information\\projects\\linkshortening\\linkshortening\\linkshortening\\views\\delete\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0F236CDA-234B-41B2-88B0-C70B545E17D1}|LinkShortening\\LinkShortening.csproj|solutionrelative:linkshortening\\views\\delete\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F236CDA-234B-41B2-88B0-C70B545E17D1}|LinkShortening\\LinkShortening.csproj|d:\\worktable\\information\\projects\\linkshortening\\linkshortening\\linkshortening\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0F236CDA-234B-41B2-88B0-C70B545E17D1}|LinkShortening\\LinkShortening.csproj|solutionrelative:linkshortening\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\obj\\docker-compose.dcproj.EntityFrameworkCore.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -97,7 +97,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -113,72 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EditController.cs",
-              "DocumentMoniker": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Controllers\\EditController.cs",
-              "RelativeDocumentMoniker": "LinkShortening\\Controllers\\EditController.cs",
-              "ToolTip": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Controllers\\EditController.cs",
-              "RelativeToolTip": "LinkShortening\\Controllers\\EditController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAIwCMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T08:19:27.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "UrlController.cs",
-              "DocumentMoniker": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Controllers\\UrlController.cs",
-              "RelativeDocumentMoniker": "LinkShortening\\Controllers\\UrlController.cs",
-              "ToolTip": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Controllers\\UrlController.cs",
-              "RelativeToolTip": "LinkShortening\\Controllers\\UrlController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T14:11:58.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "LinkShortening\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "LinkShortening\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T15:45:12.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "URL.cs",
-              "DocumentMoniker": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Models\\URL.cs",
-              "RelativeDocumentMoniker": "LinkShortening\\Models\\URL.cs",
-              "ToolTip": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Models\\URL.cs",
-              "RelativeToolTip": "LinkShortening\\Models\\URL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T14:19:36.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UrlService.cs",
-              "DocumentMoniker": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Services\\UrlService.cs",
-              "RelativeDocumentMoniker": "LinkShortening\\Services\\UrlService.cs",
-              "ToolTip": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Services\\UrlService.cs",
-              "RelativeToolTip": "LinkShortening\\Services\\UrlService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T05:26:32.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Views\\Create\\Index.cshtml",
               "RelativeDocumentMoniker": "LinkShortening\\Views\\Create\\Index.cshtml",
@@ -186,12 +121,11 @@
               "RelativeToolTip": "LinkShortening\\Views\\Create\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-06T17:55:33.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T17:55:33.801Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Program.cs",
               "RelativeDocumentMoniker": "LinkShortening\\Program.cs",
@@ -199,12 +133,11 @@
               "RelativeToolTip": "LinkShortening\\Program.cs",
               "ViewState": "AQIAACEAAAAAAAAAAAAAAAYAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T15:45:53.791Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T15:45:53.791Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\appsettings.json",
               "RelativeDocumentMoniker": "LinkShortening\\appsettings.json",
@@ -212,90 +145,36 @@
               "RelativeToolTip": "LinkShortening\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-06T14:56:39.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T14:56:39.322Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Dockerfile",
               "DocumentMoniker": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Dockerfile",
               "RelativeDocumentMoniker": "LinkShortening\\Dockerfile",
               "ToolTip": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Dockerfile",
               "RelativeToolTip": "LinkShortening\\Dockerfile",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAqwAkAAAAfAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAkAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-06T14:45:17.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T14:45:17.107Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DeleteController.cs",
-              "DocumentMoniker": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Controllers\\DeleteController.cs",
-              "RelativeDocumentMoniker": "LinkShortening\\Controllers\\DeleteController.cs",
-              "ToolTip": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Controllers\\DeleteController.cs",
-              "RelativeToolTip": "LinkShortening\\Controllers\\DeleteController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T08:27:26.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CreateController.cs",
-              "DocumentMoniker": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Controllers\\CreateController.cs",
-              "RelativeDocumentMoniker": "LinkShortening\\Controllers\\CreateController.cs",
-              "ToolTip": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Controllers\\CreateController.cs",
-              "RelativeToolTip": "LinkShortening\\Controllers\\CreateController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T10:26:06.737Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
               "ToolTip": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\docker-compose.yml",
               "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAYAAAAiAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2025-03-06T14:40:46.977Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "LinkShortening\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "LinkShortening\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-06T14:08:47.446Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Views\\Url\\Index.cshtml",
-              "RelativeDocumentMoniker": "LinkShortening\\Views\\Url\\Index.cshtml",
-              "ToolTip": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Views\\Url\\Index.cshtml",
-              "RelativeToolTip": "LinkShortening\\Views\\Url\\Index.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAABWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-06T14:09:17.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 2,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "LinkShortening\\Views\\_ViewImports.cshtml",
@@ -308,20 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Views\\Edit\\Index.cshtml",
-              "RelativeDocumentMoniker": "LinkShortening\\Views\\Edit\\Index.cshtml",
-              "ToolTip": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Views\\Edit\\Index.cshtml",
-              "RelativeToolTip": "LinkShortening\\Views\\Edit\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-06T18:00:11.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 1,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "LinkShortening\\Views\\_ViewStart.cshtml",
@@ -334,7 +200,128 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LinkShortening\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LinkShortening\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T14:08:47.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UrlService.cs",
+              "DocumentMoniker": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Services\\UrlService.cs",
+              "RelativeDocumentMoniker": "LinkShortening\\Services\\UrlService.cs",
+              "ToolTip": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Services\\UrlService.cs",
+              "RelativeToolTip": "LinkShortening\\Services\\UrlService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:26:32.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "URL.cs",
+              "DocumentMoniker": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Models\\URL.cs",
+              "RelativeDocumentMoniker": "LinkShortening\\Models\\URL.cs",
+              "ToolTip": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Models\\URL.cs",
+              "RelativeToolTip": "LinkShortening\\Models\\URL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:19:36.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "LinkShortening\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "LinkShortening\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T15:45:12.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UrlController.cs",
+              "DocumentMoniker": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Controllers\\UrlController.cs",
+              "RelativeDocumentMoniker": "LinkShortening\\Controllers\\UrlController.cs",
+              "ToolTip": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Controllers\\UrlController.cs",
+              "RelativeToolTip": "LinkShortening\\Controllers\\UrlController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:11:58.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditController.cs",
+              "DocumentMoniker": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Controllers\\EditController.cs",
+              "RelativeDocumentMoniker": "LinkShortening\\Controllers\\EditController.cs",
+              "ToolTip": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Controllers\\EditController.cs",
+              "RelativeToolTip": "LinkShortening\\Controllers\\EditController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAIwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T08:19:27.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeleteController.cs",
+              "DocumentMoniker": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Controllers\\DeleteController.cs",
+              "RelativeDocumentMoniker": "LinkShortening\\Controllers\\DeleteController.cs",
+              "ToolTip": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Controllers\\DeleteController.cs",
+              "RelativeToolTip": "LinkShortening\\Controllers\\DeleteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T08:27:26.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateController.cs",
+              "DocumentMoniker": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Controllers\\CreateController.cs",
+              "RelativeDocumentMoniker": "LinkShortening\\Controllers\\CreateController.cs",
+              "ToolTip": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Controllers\\CreateController.cs",
+              "RelativeToolTip": "LinkShortening\\Controllers\\CreateController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T10:26:06.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Views\\Url\\Index.cshtml",
+              "RelativeDocumentMoniker": "LinkShortening\\Views\\Url\\Index.cshtml",
+              "ToolTip": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Views\\Url\\Index.cshtml",
+              "RelativeToolTip": "LinkShortening\\Views\\Url\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T14:09:17.872Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Views\\Edit\\Index.cshtml",
+              "RelativeDocumentMoniker": "LinkShortening\\Views\\Edit\\Index.cshtml",
+              "ToolTip": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Views\\Edit\\Index.cshtml",
+              "RelativeToolTip": "LinkShortening\\Views\\Edit\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T18:00:11.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\WorkTable\\information\\Projects\\LinkShortening\\LinkShortening\\LinkShortening\\Views\\Delete\\Index.cshtml",
               "RelativeDocumentMoniker": "LinkShortening\\Views\\Delete\\Index.cshtml",
@@ -342,8 +329,7 @@
               "RelativeToolTip": "LinkShortening\\Views\\Delete\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-06T18:03:44.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T18:03:44.242Z"
             },
             {
               "$type": "Document",

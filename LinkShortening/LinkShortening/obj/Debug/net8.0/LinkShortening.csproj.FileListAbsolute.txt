@@ -116,6 +116,7 @@ D:\WorkTable\information\Projects\LinkShortening\LinkShortening\LinkShortening\o
 D:\WorkTable\information\Projects\LinkShortening\LinkShortening\LinkShortening\obj\Debug\net8.0\LinkShortening.MvcApplicationPartsAssemblyInfo.cache
 D:\WorkTable\information\Projects\LinkShortening\LinkShortening\LinkShortening\obj\Debug\net8.0\LinkShortening.RazorAssemblyInfo.cache
 D:\WorkTable\information\Projects\LinkShortening\LinkShortening\LinkShortening\obj\Debug\net8.0\LinkShortening.RazorAssemblyInfo.cs
+D:\WorkTable\information\Projects\LinkShortening\LinkShortening\LinkShortening\obj\Debug\net8.0\LinkShortening.sourcelink.json
 D:\WorkTable\information\Projects\LinkShortening\LinkShortening\LinkShortening\obj\Debug\net8.0\staticwebassets.build.json
 D:\WorkTable\information\Projects\LinkShortening\LinkShortening\LinkShortening\obj\Debug\net8.0\staticwebassets.development.json
 D:\WorkTable\information\Projects\LinkShortening\LinkShortening\LinkShortening\obj\Debug\net8.0\staticwebassets\msbuild.LinkShortening.Microsoft.AspNetCore.StaticWebAssets.props
